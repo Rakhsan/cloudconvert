@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     creator: "Rakhsan",
     keywords: "image converter, video converter, audio converter, unlimited image converter, unlimited video converter",
     icons: {
-        icon: "/favicon.ico",
+        icon: "/logo.png",
     },
 };
 

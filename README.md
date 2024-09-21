@@ -1,8 +1,8 @@
-## Free Unlimited File Converter using webAssembly and Ffmeg
+## Unlimited File Converter
 
 **✅Next.js 13 app router**
 **✅TailwindCss**
 **✅Shadcn/ui**
 **✅WebAssembly**
-**✅FFMEG**
+**✅FFMPEG**
 
